@@ -1,0 +1,31 @@
+body {
+  background: #0f172a;
+  color: white;
+  text-align: center;
+  margin-top: 12%;
+  font-family: Arial;
+}
+
+.logo {
+  font-size: 70px;
+}
+
+.logo span {
+  color: #38bdf8;
+}
+
+input {
+  width: 60%;
+  padding: 16px;
+  border-radius: 40px;
+  border: none;
+  font-size: 18px;
+}
+
+button {
+  padding: 14px 28px;
+  border-radius: 30px;
+  background: #38bdf8;
+  border: none;
+  margin-top: 20px;
+}
